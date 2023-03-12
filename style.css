@@ -100,7 +100,7 @@ input:checked + label {
   display: block;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 660px) {
   label {
     font-size: 10px;
   }
