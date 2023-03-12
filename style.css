@@ -102,7 +102,7 @@ input:checked + label {
 
 @media screen and (max-width: 650px) {
   label {
-    font-size: 0;
+    font-size: 18px;
   }
 
   label:before {
